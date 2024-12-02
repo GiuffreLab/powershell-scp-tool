@@ -21,7 +21,7 @@ The **SCP File Transfer Tool** is a Windows PowerShell-based graphical utility t
    - Enter the remote server's IP address.
    - Define the target folder path on the remote server.
 4. **Choose a File to Copy:** Select a file from the available list in the script's directory.
-5. **Transfer the File:** Click the "Copy File" button to initiate the transfer. A confirmation or error message will notify the user of the result.
+5. **Transfer the File:** Click the "Copy File" button to initiate the transfer. If the SSH key has a passphrase, a terminal will open asking for the passphrase. A confirmation or error message will notify the user of the result of the file copy.
 
 ## Prerequisites
 
