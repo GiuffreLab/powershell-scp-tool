@@ -33,7 +33,7 @@ The **SCP File Transfer Tool** is a Windows PowerShell-based graphical utility t
 ## Example Usage
 
 ### Tool in Action
-Below is a placeholder for the tool's GUI representation.
+Below is an example of the tool's GUI representation.
 
 ![Example GUI Screenshot](images/example.png)
 
